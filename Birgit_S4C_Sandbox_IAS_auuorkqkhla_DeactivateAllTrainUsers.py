@@ -5,6 +5,7 @@ import os
 import sys
 
 # https://auuorkqkh.accounts.ondemand.com/admin
+# https://abac83m6p.accounts.ondemand.com/admin/ S4C80
 # User Group Name: ExternalSandbox0, ExternalSandbox1, ExternalSandbox2 and ExternalSandbox3
 # System Administrator's credentials: 'Username: UpdatePassword / Password: Sandbox1'
 
